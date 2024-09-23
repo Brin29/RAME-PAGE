@@ -1,7 +1,7 @@
 import "./App.css";
 import Index from "./components/Main/main";
 import Header from "./components/Header/Header";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 import PerfilUsuario from "./components/PerfilUsuario/PerfilUsuario";
 import Footer from "./components/footer/Footer";
 import Catalogo from "./components/catalogo/Catalogo";
